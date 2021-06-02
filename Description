@@ -1,0 +1,1 @@
+It is an initial project in Laravel who needs to use a database with 3 tables (initial we have 2 tables with relationship many to many and we will divide the relation many to many using a new table for connection and in that case we will have 2 relationship one to many).
